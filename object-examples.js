@@ -13,3 +13,11 @@ var animal = {
   subspecies: "familiaris",
   name: "Cloud"
 }
+
+var customer = {
+  firstName: "Dave",
+  lastName: "Anderson",
+  email: "danderson@hotmail.com",
+  phone: "(123)456-7890",
+  vehicleOfInterest: "Honda Ridgeline"
+}
